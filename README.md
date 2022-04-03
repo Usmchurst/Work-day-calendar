@@ -17,3 +17,5 @@ Seamona Stewart,
 
 Noah Brunner
 
+![Screen Shot 2022-04-02 at 11 05 30 PM](https://user-images.githubusercontent.com/97471253/161409596-f9330c7d-8c1a-4e68-9ee3-b845de87f1e7.png)
+Code does work presently however the time is past the current time in the code so it will only work displaying colors at the appropriate time from 9-5.
